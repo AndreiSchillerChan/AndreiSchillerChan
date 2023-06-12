@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndreiSchillerChan
 - 👀 I’m interested in FinTech
-- 🌱 I’m currently learning C#
+- 🌱 Commercial Experience with .Net
 - 💞️ I’m looking to collaborate on FinTech Software
 - 📫 Here
 
